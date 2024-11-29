@@ -1,8 +1,10 @@
-CREATE TABLE [User] (
-    Id INT IDENTITY(1,1) PRIMARY KEY, -- Chave primária com incremento automático
-    Username NVARCHAR(50) NOT NULL,  -- Nome do usuário, obrigatório
-    Email NVARCHAR(100) NOT NULL,    -- Email, obrigatório
-    PasswordHash NVARCHAR(255) NOT NULL, -- Hash da senha, obrigatório
-    CreatedAt DATETIME NOT NULL DEFAULT GETDATE(), -- Data de criação
-    UpdatedAt DATETIME NULL -- Data de atualização
+-- Tabela de Usuários
+CREATE TABLE Users (
+    Id INT PRIMARY KEY IDENTITY(1,1),       -- Id do Usuário (auto-incremento)
+    Username NVARCHAR(50) NOT NULL,         -- Nome de usuário (máximo 50 caracteres)
+    Email NVARCHAR(255) NOT NULL,           -- Endereço de email (máximo 255 caracteres)
+    PasswordHash NVARCHAR(255) NOT NULL,    -- Hash da senha (máximo 255 caracteres)
+    CreatedAt DATETIME DEFAULT GETDATE(),   -- Data de criação (valor padrão: data atual)
+    UpdatedAt DATETIME,                     -- Data de atualização (pode ser nulo)
+    CONSTRAINT UC_Email UNIQUE (Email)      -- Restringe emails únicos (não pode haver dois com o mesmo email)
 );
