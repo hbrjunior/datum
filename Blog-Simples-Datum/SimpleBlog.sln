@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog", "SimpleBlog\SimpleBlog.csproj", "{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Domain", "SimpleBlog.Domain\SimpleBlog.Domain.csproj", "{65C88432-6312-4085-A146-BDAC27E30F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Application", "SimpleBlog.Application\SimpleBlog.Application.csproj", "{8C93806D-8642-422E-B959-4FBF86B06633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Infrastructure", "SimpleBlog.Infrastructure\SimpleBlog.Infrastructure.csproj", "{5304E867-96F9-4F66-B285-B9F9C20E8FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.API", "SimpleBlog.API\SimpleBlog.API.csproj", "{A9D26D23-6A1D-4D4C-89CC-825EE5F2C2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationClient", "NotificationClient\NotificationClient.csproj", "{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C88432-6312-4085-A146-BDAC27E30F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C88432-6312-4085-A146-BDAC27E30F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C88432-6312-4085-A146-BDAC27E30F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C88432-6312-4085-A146-BDAC27E30F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C93806D-8642-422E-B959-4FBF86B06633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C93806D-8642-422E-B959-4FBF86B06633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C93806D-8642-422E-B959-4FBF86B06633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C93806D-8642-422E-B959-4FBF86B06633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5304E867-96F9-4F66-B285-B9F9C20E8FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5304E867-96F9-4F66-B285-B9F9C20E8FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5304E867-96F9-4F66-B285-B9F9C20E8FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5304E867-96F9-4F66-B285-B9F9C20E8FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D26D23-6A1D-4D4C-89CC-825EE5F2C2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D26D23-6A1D-4D4C-89CC-825EE5F2C2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D26D23-6A1D-4D4C-89CC-825EE5F2C2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D26D23-6A1D-4D4C-89CC-825EE5F2C2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E58285B-6826-4A84-859B-AFE9306FC5CF}
+	EndGlobalSection
+EndGlobal

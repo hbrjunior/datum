@@ -1,0 +1,6 @@
+@SimpleBlog_HostAddress = http://localhost:5047
+
+GET {{SimpleBlog_HostAddress}}/
+Accept: application/json
+
+###

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATUM\\Blog-Simples-Datum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}|NotificationClient\\NotificationClient.csproj|d:\\datum\\blog-simples-datum\\notificationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954708-B7AD-4CD1-9D1B-ACEA0336E7F9}|NotificationClient\\NotificationClient.csproj|solutionrelative:notificationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}|SimpleBlog\\SimpleBlog.csproj|d:\\datum\\blog-simples-datum\\simpleblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDC74D6-CB23-4788-AB6F-D9C12B74F2BC}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5304E867-96F9-4F66-B285-B9F9C20E8FD4}|SimpleBlog.Infrastructure\\SimpleBlog.Infrastructure.csproj|d:\\datum\\blog-simples-datum\\simpleblog.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5304E867-96F9-4F66-B285-B9F9C20E8FD4}|SimpleBlog.Infrastructure\\SimpleBlog.Infrastructure.csproj|solutionrelative:simpleblog.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C88432-6312-4085-A146-BDAC27E30F5C}|SimpleBlog.Domain\\SimpleBlog.Domain.csproj|d:\\datum\\blog-simples-datum\\simpleblog.domain\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C88432-6312-4085-A146-BDAC27E30F5C}|SimpleBlog.Domain\\SimpleBlog.Domain.csproj|solutionrelative:simpleblog.domain\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5304E867-96F9-4F66-B285-B9F9C20E8FD4}|SimpleBlog.Infrastructure\\SimpleBlog.Infrastructure.csproj|d:\\datum\\blog-simples-datum\\simpleblog.infrastructure\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5304E867-96F9-4F66-B285-B9F9C20E8FD4}|SimpleBlog.Infrastructure\\SimpleBlog.Infrastructure.csproj|solutionrelative:simpleblog.infrastructure\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATUM\\Blog-Simples-Datum\\NotificationClient\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationClient\\Program.cs",
+              "ToolTip": "D:\\DATUM\\Blog-Simples-Datum\\NotificationClient\\Program.cs",
+              "RelativeToolTip": "NotificationClient\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:11:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Domain\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "SimpleBlog.Domain\\Interfaces\\IPostService.cs",
+              "ToolTip": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Domain\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "SimpleBlog.Domain\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:09:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Infrastructure\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "SimpleBlog.Infrastructure\\Services\\PostService.cs",
+              "ToolTip": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Infrastructure\\Services\\PostService.cs",
+              "RelativeToolTip": "SimpleBlog.Infrastructure\\Services\\PostService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:09:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Infrastructure\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "SimpleBlog.Infrastructure\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog.Infrastructure\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "SimpleBlog.Infrastructure\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:05:48.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Program.cs",
+              "ToolTip": "D:\\DATUM\\Blog-Simples-Datum\\SimpleBlog\\Program.cs",
+              "RelativeToolTip": "SimpleBlog\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowE0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:30:18.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
